@@ -1,0 +1,9 @@
+require:
+  - refresh token handler
+  - user roles and permissions (root, user, demo, support ?)
+    root
+      all_permissions
+    user
+      create_training
+    demo
+      create_training
